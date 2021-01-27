@@ -1,5 +1,9 @@
 # Change log
 
+## 11.0.0
+
+- update to Angular 11
+
 ## 10.0.6
 
 - fix object not iterable in SSR
